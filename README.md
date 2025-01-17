@@ -1,5 +1,8 @@
 # SQL_Music_Store_Analysis
 
+![image](https://github.com/user-attachments/assets/a853f494-88fc-4a0c-8f77-37650e7850a2)
+
+
 # Music Store Analysis
 
 This project is a comprehensive analysis of a music store's database, aimed at uncovering valuable business insights. Using SQL, I tackled a range of queries, categorized by difficulty, to explore customer behavior, revenue trends, and the performance of various music genres and artists.
@@ -18,7 +21,7 @@ This project is a comprehensive analysis of a music store's database, aimed at u
 Tools Used
 **SQL**: For data exploration and query optimization.
 
-**** Customer, Invoice, InvoiceLine, Track, Genre, Album, Artist.
+**Database Tables**: Customer, Invoice, InvoiceLine, Track, Genre, Album, Artist.
 
 This project demonstrates my ability to extract actionable insights, perform data aggregation, and solve real-world business problems using SQL.
 Schema- Music Store Database
