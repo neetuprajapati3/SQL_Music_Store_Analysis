@@ -1,6 +1,7 @@
 # SQL_Music_Store_Analysis
 
-![image](https://github.com/user-attachments/assets/a853f494-88fc-4a0c-8f77-37650e7850a2)
+![image](https://github.com/user-attachments/assets/32e68336-7614-406a-9150-15c9af00e630)
+
 
 
 # Music Store Analysis
